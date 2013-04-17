@@ -22,6 +22,6 @@
   },
   "dependencies": {
     "express": "3.x",
-    "nodetiles-core": "git+ssh://git@github.com:codeforamerica/nodetiles-core.git#update-dependencies"
+    "nodetiles-core": "git://github.com/codeforamerica/nodetiles-core.git#update-dependencies"
   }
 }
