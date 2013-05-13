@@ -26,7 +26,6 @@ var path = require('path'),
 //
 var nodetiles = require('nodetiles-core'),
     GeoJsonSource = nodetiles.datasources.GeoJson,
-    PostGISSource = nodetiles.datasources.PostGIS,
     ShpSource = nodetiles.datasources.Shp,
     Projector = nodetiles.projector;
 
